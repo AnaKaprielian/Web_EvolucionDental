@@ -1,0 +1,12 @@
+@media screen and (max-width:920px){
+    .nav__btn{
+        display: inline-flex;
+    }
+    .nav__btn{
+        position:fixed;
+        width: 100vw;
+        height: calc(100% - 71px);
+        background-color: antiquewhite;
+
+    }
+}

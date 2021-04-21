@@ -1,0 +1,143 @@
+CSS
+
+Selectores  1
+Especificidad,   1
+Metodología BEM 1
+Medidas (em, vw, vh, %) 1
+Normalize   2
+Elementos en linea y en bloque  2
+Propiedades de texto    3
+    font-size   3
+    font-family 3
+    color   3
+    line-height 3
+    font-weight    3
+    letter-spacing 33
+    direction   33   
+Propiedades de cajas    4 - 12
+    background (color, img, size, repeat, clip, origin, position, attachment)    4, 30
+    height  4
+    width   4
+    box-sizing (border-box, content-box)    4
+    text-align (center) 4
+    padding 4
+    margin  5
+    border  5
+    border-radious  5
+    outline 5
+    opacity 5
+    background  6
+    box-shadow  6
+    text-shadow 6
+    transform (rotate, translate, scale, skew)  6, 29
+    position (static, relative, absolute)   7
+    position (fixed, sticky)    8
+    z-index 9
+    display 
+        block   10
+        inline  10
+        inline-block    10
+        flex (Propiedades flex-container, flex-item)    10, 18-20
+        grid (Propiedades grid-container, grid-item)    10, 21-24
+    overflow (auto, scroll, hidden) 11
+    float   12
+    transition  26
+    animations (keyframes)  27-28
+    scroll-behavior 33
+    user-selector   33
+    direction   33
+    letter-spacing  33
+Imagen  11-12
+    (autoajuste, posicionada, ocultar excedente) 11
+    object-fit (contain, cover, none, scale-down)   12
+    object-position (left, right, top, bottom)  12
+Pseudo-Elementos    14
+    elem::first-line    14
+    elem::first-letter  14
+    input::placeholder  14
+    input::selection 14
+    b::before   14
+    b::after    14
+Pseudo-Clases   15
+    caja:hover  15
+    a:link  15
+    a:visited   15
+    a:active    15
+    input:focus 15
+    .texto:lang 15
+Cursor  16
+Colors  17
+Responsive Design   25
+Variables (:root)   31
+Filter  32
+
+
+JAVASCRIPT
+
+Operadores (asignación, aritméticos, lógicos)   38
+Variables (var, let, const) 38
+Concatenación   39
+parseInt    39
+IF  40
+Arrays  41
+    Transformadores 50
+    Accesores   51
+    De repetición   52
+While   42
+For 43
+Funciones   44
+POO 45
+Herencia    46
+Getters y Setters   47
+Cadenas/Strings 48
+Math    53
+Consola 54
+Document    56. 61
+Atributos (globales, inputs, style) 57-58
+ClassList   59
+Obtención y Modificación de elementos (innerHTML, textContent)  60
+Creación de elementos (appendChild, createElement)  61
+Obtención y Modificación de Childs  62
+Métodos de Childs (replace, remove, has)    63
+Propiedades de Parents  63
+Propiedades de Siblings (next, previous)    63
+Window/Ventana(open, close, alert, promt, print, scroll, location)    64-65
+Eventos
+    Event Handler (onclick) 66
+    Event Listener (addEventListener, removeEventListener)  66
+    Objeto Event (e)    67
+    Event Flow (Event Bubbling, Event Capturing)    67
+    Eventos del mouse (click, dclick, mouseover, contextmenu)   68
+    Eventos del teclado (keydown, keypress, keyup)  68
+    Eventos de la interfaz (error, load, select,..) 69
+Temporizador (setTimeOut, setInterval, clearTimeOut, clearInterval) 70
+Switch-Case 71
+Excepciones / Try-Catch 72
+Callbacks   73-75
+Promesas    76-77
+Await-Async 78
+JSON (serializar, deserializar) 79
+AJAX (XMLHttpRequest), servidos XAMPP    80-82
+Peticiones GET y POST   83-85
+Fetch   84
+Librería Axios  85
+Fetch y Axios con Await y Async 86
+Await y Async con Try-Catch 87
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
